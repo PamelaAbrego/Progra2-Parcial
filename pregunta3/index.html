@@ -9,14 +9,16 @@
 
 <body>
     <h1>pregunta3</h1>
-    <label for="number1">Número 1</label>
-    <input type="number" id="n1" placeholder="Número 1...">
-    <br>
-    <label for="number2">Número 2</label>
-    <input type="number" id="n2" placeholder="Número 2...">
+    <form action="pedirNumeros">
+        <label for="number1">Número 1</label>
+        <input type="number" id="n1" placeholder="Número 1...">
+        <br>
+        <label for="number2">Número 2</label>
+        <input type="number" id="n2" placeholder="Número 2...">
+    </form>
     <br>
     <button onclick="agregarFila()">Sumar</button>
-
+    <br>
     <table id="table1">
         <tr>
             <th>numero1</th>
