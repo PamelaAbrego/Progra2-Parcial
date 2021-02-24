@@ -3,5 +3,5 @@ balbino aylagas
 esen feb 2021
 
 nombre completo: Pamela Alejandra Ábrego Ramírez
-github url: 
+github url: https://github.com/PamelaAbrego/Progra2-Parcial.git
 progra2
